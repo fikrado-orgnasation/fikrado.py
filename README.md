@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" src="fp.png" alt="Fikrado.py Logo">
+  <img height="150" src="fp1.png" alt="Fikrado.py Logo">
   <h1 align="center">FIKRADO.PY</h1>
   <p align="center">The Facebook Pentesting & Account Assessment Tool</p>
 </p>
