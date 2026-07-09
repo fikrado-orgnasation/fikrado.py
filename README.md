@@ -1,75 +1,60 @@
-
 <p align="center">
-  <h1 align="center">FIKRADO.PY THE FACEBOOK HACKINGN TOOL</h1>
+  <img height="150" src="fp.png" alt="Fikrado.py Logo">
+  <h1 align="center">FIKRADO.PY</h1>
+  <p align="center">The Facebook Pentesting & Account Assessment Tool</p>
 </p>
 
-
-
-
-[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
-[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrad0)
-
-
 <p align="center">
- <img height="250" src="fp.png" >
+  <a href="https://t.me/fikrado_hacker"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://facebook.com/fikrad0"><img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook" alt="Facebook"></a>
 </p>
 
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+---
 
+### 📖 About the Tool
+**Fikrado.py** is a multi-account auditing tool built to interact with the Facebook API. It allows you to test and secure multiple accounts efficiently. 
 
-<h4>
-This tool created for hacking  multibul facebook accounts useing the facebook api if want to hack a lot of facebook accounts this your tool 
-you can use this tool on any python 2.7 installed divice like linux, windows, termux and ish or any python2.7 installed divice you can also  use it on goole cloude if you dont like to install it on your system by click on the bottom below and remember to download the dependence 
-</h4>
+🚀 **Update:** The tool now fully supports **Python 3**! Run the `fikrado3.py` file to use the Python 3 compatible version.
 
-[![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/fikrado/fikrado.py&tutorial=README.md) 
+You can run this tool on any environment with Python installed, including **Linux, Windows, Termux, and iSH**. If you prefer not to install it locally, you can launch it instantly in the cloud via Google Cloud Shell (ensure you install the required dependencies).
 
+<p align="center">
+  <a href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/fikrado/fikrado.py&tutorial=README.md">
+    <img src="https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png" alt="Open in Cloud Shell">
+  </a>
+</p>
 
-### PLEASE DONATE 
-<h5>
-patreon https://patreon.com/fikrado
-liberapay https://liberapay.com/fikrado
-</h5>
+---
 
-____________
+### 💖 Support & Donations
+If this project helped you, consider supporting its development:
+* **Patreon:** [patreon.com/fikrado](https://patreon.com/fikrado)
+* **Liberapay:** [liberapay.com/fikrado](https://liberapay.com/fikrado)
 
-## [+] Termux Installation
-#### install this tool in termux with this comands
-```
+---
 
-git clone https://github.com/fikrado/fikrado.py
+### 📥 Installation & Usage
 
+#### 📱 Termux (Android)
+Run the following commands in your Termux terminal:
+
+```bash
+# Clone the repository
+git clone [https://github.com/fikrado/fikrado.py](https://github.com/fikrado/fikrado.py)
+
+# Navigate to the directory
 cd fikrado.py
 
+# Run the setup script for dependencies
 bash termux.sh
 
+# FOR PYTHON 3 usage:
+python fikrado3.py
+
+# FOR PYTHON 2.7 usage:
 python2 fikrado.py
-
-```
-
-____________
-
-### [+]Andiroid Termux ScreenShot
-<img width="100px" src="/PicsArt_09-11-08.26.12.jpg">
-
-## [+] kali installation
-#### you can install this tool in kali or any linux device with this commands
-_______________
-```
-
-
-git clone https://github.com/fikrado/fikrado.py
-
-cd fikrado.py
-
-bash kali.sh
-
-python2 fikrado.py
-
-```
-### [+] Kali Linux ScreenShot
-
-<img width="750px" src="s1.png">
-
-
